@@ -1,6 +1,6 @@
-#Git Course
+# Git Course
 
 This  is a complete git course
 
 
-##this is a sample 
+# this is a sample 
